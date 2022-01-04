@@ -18,7 +18,7 @@ void main() {
             child: Text("Je suis pauvre"),
           ),
         ),
-        backgroundColor: Colors.white,
+        backgroundColor: Colors.white54,
         body: Center(
           child: Column(
             children: [
