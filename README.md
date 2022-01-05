@@ -7,6 +7,8 @@ Exercice:
 Utilisez la structure décrite dans le pdf joint et ce que vous avez appris précédemment pour créer une application appelée je suis pauvre.
 Personnalisez au maximum votre application avec vos images.
 
+Lien document PDF : https://drive.google.com/file/d/1ayVkYJc3nBi_r91Lf9T9m2u7hz4advI0/view
+
 ## Getting Started
 
 This project is a starting point for a Flutter application.
