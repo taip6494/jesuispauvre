@@ -1,24 +1,21 @@
 import 'package:flutter/material.dart';
 
 void main() {
-  //couleur gradient qui va servir pour le text
   final Shader linearGradient = LinearGradient(
-    colors: <Color>[Colors.orangeAccent,Colors.red],
+    colors: <Color>[Colors.orangeAccent, Colors.red],
   ).createShader(Rect.fromLTWH(0.0, 0.0, 200.0, 70.0));
   runApp(
     MaterialApp(
       home: Scaffold(
         appBar: AppBar(
           backgroundColor: Colors.blue[500],
-          title:
-              Center(
+          title: Center(
             child: Text("Je suis pauvre"),
           ),
         ),
         backgroundColor: Colors.white54,
         body: Center(
-          child:
-          Column(
+          child: Column(
             children: [
               Text(
                 "Mon application sur flutter / Dart",
