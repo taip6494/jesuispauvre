@@ -29,8 +29,8 @@ void main() {
                     foreground: Paint()..shader = linearGradient),
               ),
               Container(
-                  width: 320.0,
-                  height: 400.0,
+                  width: 200.0,
+                  height: 300.0,
                   alignment: Alignment.center,
                   decoration: new BoxDecoration(
                     image: DecorationImage(
@@ -39,6 +39,24 @@ void main() {
                   )),
               Text(
                 "Copyright Thomas palisseau",
+                style: TextStyle(
+                  fontSize: 18.0,
+                  letterSpacing: 2,
+                  height: 05.0,
+                  color: Colors.white,
+                ),
+              ),
+              Text(
+                "Email: Palisseau@protonmail.com",
+                style: TextStyle(
+                  fontSize: 18.0,
+                  letterSpacing: 2,
+                  height: 05.0,
+                  color: Colors.white,
+                ),
+              ),
+              Text(
+                "Git: Taip6494",
                 style: TextStyle(
                   fontSize: 18.0,
                   letterSpacing: 2,
