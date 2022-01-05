@@ -20,7 +20,8 @@ void main() {
         ),
         backgroundColor: Colors.white54,
         body: Center(
-          child: Column(
+          child:
+          Column(
             children: [
               //Le Texte
               Text(
