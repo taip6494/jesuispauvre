@@ -20,7 +20,7 @@ void main() {
               Text(
                 "Mon application sur flutter / Dart",
                 style: TextStyle(
-                    fontSize: 18.0,
+                    fontSize: 21.5,
                     letterSpacing: 2,
                     height: 05.0,
                     foreground: Paint()..shader = linearGradient),
