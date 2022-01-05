@@ -2,6 +2,11 @@
 
 Mon application je suis pauvre
 
+Exercice:
+
+Utilisez la structure décrite dans le pdf joint et ce que vous avez appris précédemment pour créer une application appelée je suis pauvre.
+Personnalisez au maximum votre application avec vos images.
+
 ## Getting Started
 
 This project is a starting point for a Flutter application.
